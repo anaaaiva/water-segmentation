@@ -12,4 +12,4 @@ interface = gr.Interface(fn=predict, inputs=gr.Image(type="numpy").style(height=
             outputs=gr.Image(type="numpy").style(height=256),
             examples=examples, title=title)
 
-interface.launch()
+interface.launch(share=True)
