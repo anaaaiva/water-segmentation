@@ -1,0 +1,4 @@
+gradio~=3.28.3
+opencv-python~=4.7.0.72
+numpy~=1.24.3
+onnxruntime~=1.14.1
