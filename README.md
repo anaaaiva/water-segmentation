@@ -10,3 +10,5 @@
 Посмотреть на работу модели и сегментировать водоемы на спутниковых изображених можно на [Hugging Face Spaces](https://huggingface.co/spaces/anaaaiva/aerial-water-segmentation)
 
 ![inference_img](inference_img/image.png)
+
+Презентацию проекта можно найти [здесь](project_presentation.pdf)
